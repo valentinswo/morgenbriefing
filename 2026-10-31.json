@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-31",
+  "weekday": "Samstag",
+  "dateLabel": "31. Oktober 2026",
+  "lede": "Iran-Spannungen vor den US-Midterms, Linnemanns Pflege-Sparkurs und ein Tech-Ausverkauf an der Wall Street.",
+  "createdAt": "2026-10-31T08:45:00+01:00",
+  "footer": "Zusammengestellt am 31.10.2026, 8:45 Uhr (Berlin). Keine Anlageberatung.",
+  "sections": [
+    {
+      "title": "Politik weltweit", "short": "Welt",
+      "paragraphs": [
+        "Am Nahost-Konflikt zieht es wieder an: CENTCOM-Chef Admiral Brad Cooper hat Trump laut Wall Street Journal am Donnerstag im Weißen Haus militärische Optionen gegen Iran vorgestellt. Berichten zufolge erwägen Washington und Jerusalem eine kurze, intensive Angriffswelle nach den Midterms am Dienstag; über zehn US-Transportflugzeuge sind in der letzten Woche in Israel gelandet. Iran meldet, drei Tanker seien südlich der Straße von Hormus auf Seeminen gelaufen. Einen Brief von Vizepräsident Vance hat Teheran bestätigt, aber noch nicht beantwortet.",
+        "Das G20-Außenministertreffen in Atlanta endet ohne gemeinsame Abschlusserklärung, Marco Rubio gibt nur eine Erklärung des Vorsitzes heraus. Ukraine, Iran, US-Zölle und das Südchinesische Meer spalten die Runde; das Gruppenfoto fiel aus, weil Europäer wegen Lawrows Anwesenheit mit Boykott drohten. Gleichzeitig hat das US-Außenministerium den Verkauf von Patriot-Abfangraketen für 2,1 Mrd. Dollar an die Ukraine gebilligt. An der Front gehen die Drohnenangriffe weiter: Ukrainische Drohnen trafen eine Raffinerie in der Region Samara, Russland meldet über 1.000 abgefangene Drohnen in einer Nacht.",
+        "Und in den USA läuft der Countdown: Am Dienstag (3. November) wird gewählt. Prognosemodelle wie das von Nate Silver sehen die Demokraten als klare Favoriten für die Rückeroberung des Repräsentantenhauses."
+      ],
+      "sources": [
+        {"label": "Times of Israel", "url": "https://www.timesofisrael.com/top-us-commander-briefs-trump-on-iran-military-options-as-regional-buildup-grows/"},
+        {"label": "AP via Arab News", "url": "https://www.arabnews.com/world/g20-foreign-ministers-to-end-atlanta-meeting-without-consensus-on-key-issues-3009092"},
+        {"label": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-oil-refinery-struck-as-ukraine-renews-drone-attacks"},
+        {"label": "Silver Bulletin", "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model"}
+      ]
+    },
+    {
+      "title": "Politik Deutschland", "short": "Deutschland",
+      "paragraphs": [
+        "Kanzler Merz hat seine fünftägige Asienreise in Seoul beendet. Mit Singapur gibt es einen Arbeitsplan für die strategische Partnerschaft 2027/28, mit Japan ein Paket zu Wirtschaftssicherheit, Verteidigung und Hochtechnologie, mit Südkorea ein Rahmen für Technologie- und Halbleiterkooperation. Seine Botschaft überall: regelbasierter Freihandel gegen Alleingänge und Machtpolitik, inklusive Werben für ein Abkommen zwischen EU und dem Pazifik-Bündnis CPTPP.",
+        "Wirtschaftlich gab es am Freitag eine positive Überraschung: Das BIP wuchs im dritten Quartal um 0,2 Prozent, das vierte Plus in Folge, getragen vom privaten Konsum und den staatlichen Milliarden für Infrastruktur und Verteidigung. Die Inflation fiel im Oktober auf 2,8 Prozent (September: 3,3), vor allem wegen des Tankrabatts. Ökonomen warnen, dass sie zum Jahreswechsel wieder über 3 Prozent steigen könnte."
+      ],
+      "sources": [
+        {"label": "Bundesregierung", "url": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-asienreise-2458230"},
+        {"label": "dpa via news.de", "url": "https://www.news.de/panorama/860143129/30-oktober-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-30-10-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"},
+        {"label": "dpa-AFX via ARIVA", "url": "https://www.ariva.de/news/roundup-3-deutsche-wirtschaft-waechst-ueberraschend-12188963"}
+      ]
+    },
+    {
+      "title": "Gesundheitspolitik", "short": "Gesundheitspolitik",
+      "paragraphs": [
+        "Gesundheitsminister Carsten Linnemann hat den durchschnittlichen Zusatzbeitrag für 2027 offiziell auf 2,9 Prozent festgelegt, wie vom Schätzerkreis empfohlen. Das ist allerdings nur eine Rechengröße: Für 2026 lag die Empfehlung ebenso hoch, tatsächlich verlangen die Kassen im Schnitt rund 3,1 Prozent.",
+        "Die größere Baustelle ist die Pflege. Im Handelsblatt sagt Linnemann, die Pflegeversicherung steuere 2027 auf ein Milliardendefizit zu, man müsse „rund zehn Prozent einsparen“, Leistungskürzungen könne er nicht ausschließen. Erneut höhere Zuzahlungen in der GKV schließt er dagegen aus; eine weitere Sparrunde bei den Kassen hält er sich offen, bis die Finanzkommission Gesundheit Ende Dezember liefert. Die SPD widerspricht: Fraktionssprecher Christos Pantazis will lieber einen Finanzausgleich mit der privaten Pflegeversicherung (geschätzt 3 bis 3,5 Mrd. Euro pro Jahr), der VdK kritisiert die Sparvorgabe, bevor die neue Pflegestrukturkommission (seit 27. Oktober im Amt) überhaupt gearbeitet hat.",
+        "Als Nächstes kommt das Primärversorgungsgesetz mit Hausarzt als erster Anlaufstelle und Terminvermittlung über die 116 117: Linnemann hat einen ersten Entwurf für November angekündigt."
+      ],
+      "sources": [
+        {"label": "Handelsblatt", "url": "https://www.handelsblatt.com/politik/deutschland/carsten-linnemann-werde-den-teufel-tun-noch-mal-an-das-thema-zuzahlung-zu-gehen-01/100263215.html"},
+        {"label": "epd via evangelisch.de", "url": "https://www.evangelisch.de/inhalte/260510/30-10-2026/linnemann-legt-zusatzbeitrag-fuer-krankenkassen-auf-29-prozent-fest"},
+        {"label": "ZDFheute", "url": "https://www.zdfheute.de/politik/deutschland/zusatzbeitrag-krankenkasse-stabil-linnemann-100.html"},
+        {"label": "dts", "url": "https://mittelstand-nachrichten.de/aktuell/dts_politik/pflegeversicherung-spd-fraktion-widerspricht-linnemann-und-fordert-finanzausgleich-mit-privater-pflegeversicherung"},
+        {"label": "ad-hoc-news", "url": "https://www.ad-hoc-news.de/wissenschaft/primaerversorgungssystem-linnemann-kuendigt-gesetzentwurf-fuer-november-an/70177952"}
+      ]
+    },
+    {
+      "title": "Medizin & Forschung", "short": "Medizin",
+      "paragraphs": [
+        "**Retatrutid schlägt Ozempic.** In der Phase-3-Studie TRANSCEND-T2D-2 bekamen 1.298 Menschen mit Typ-2-Diabetes (unter Metformin, ggf. plus SGLT2-Hemmer) 80 Wochen lang Retatrutid 9 oder 12 mg oder Semaglutid 2 mg. Der HbA1c sank unter Retatrutid um 2,2 Prozentpunkte gegenüber 1,8 unter Ozempic, das Gewicht um bis zu 20,9 Prozent gegenüber 9,4 Prozent. Dafür brachen mehr Teilnehmer wegen Nebenwirkungen ab (bis 7,9 vs. 2,7 Prozent). Bisher sind das Topline-Daten von Lilly, die volle Publikation steht noch aus.",
+        "**Kopf-Hals-Krebs: Sterberisiko halbiert.** In der Phase-3-Studie LiGeR-HN1 senkte Genmabs bispezifischer Antikörper Petosemtamab plus Pembrolizumab bei PD-L1-positivem, rezidiviertem oder metastasiertem Plattenepithelkarzinom in der Erstlinie das Sterberisiko um 50 Prozent gegenüber Pembrolizumab allein (HR 0,50), unabhängig vom HPV-Status. Auch das ist eine erste Zwischenanalyse, Teilnehmerzahl und medianes Überleben sind noch nicht veröffentlicht.",
+        "**Intensivmedizin: Inhalative Sedierung bringt keinen Überlebensvorteil.** Die kanadische SAVE-ICU-Studie (JAMA, 780 beatmete Patienten mit akutem hypoxämischem Lungenversagen, 14 Intensivstationen) verglich Isofluran mit üblicher IV-Sedierung. Die Krankenhaussterblichkeit lag bei 42,5 bzw. 43,8 Prozent, also kein Unterschied; unter Isofluran gab es sogar etwas weniger delir- und komafreie Tage. Außerdem fand eine Studie in PLOS Medicine keinen grundsätzlichen Zusammenhang zwischen der Menge hochverarbeiteter Lebensmittel und Darmkrebs, entscheidend sei eher, welche Produkte gegessen werden.",
+        "**Ausbruch:** Der Ebola-Ausbruch (Bundibugyo-Virus) im Kongo ist auf über 10.100 bestätigte Fälle und 4.928 Tote gewachsen, dazu 9 Fälle in Kenia und ein Fall aus Nigeria, der in die Schweiz ausgeflogen wurde. Das ECDC stuft das Risiko für Menschen in der EU weiter als sehr gering ein."
+      ],
+      "sources": [
+        {"label": "Healio", "url": "https://www.healio.com/news/endocrinology/20261028/retatrutide-confers-greater-decreases-in-hba1c-weight-vs-ozempic-in-type-2-diabetes"},
+        {"label": "BioPharm International", "url": "https://www.biopharminternational.com/view/genmab-s-petosemtamab-plus-pembrolizumab-cuts-risk-of-death-by-50-in-phase-3-head-and-neck-cancer-trial"},
+        {"label": "JAMA", "url": "https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2026.18471"},
+        {"label": "Deutsches Ärzteblatt", "url": "https://www.aerzteblatt.de/news/hochverarbeitete-lebensmittel-studie-findet-kein-grundsatzlich-erhohtes-darmkrebsrisiko-0542ddf2-0a95-4aec-990c-de13d73b8aff"},
+        {"label": "ECDC", "url": "https://www.ecdc.europa.eu/en/public-health-events/2026-eip-00026/2026-10-28"}
+      ]
+    },
+    {
+      "title": "Sport", "short": "Sport",
+      "paragraphs": [
+        "**Fußball:** Eintracht Frankfurt steht laut Medienberichten kurz davor, Nürnbergs Sportvorstand Joti Chatzialexiou als Nachfolger des Mitte Oktober getrennten Markus Krösche zu holen; die Ablöse soll unter einer Million Euro liegen. Offiziell bestätigt ist das noch nicht.",
+        "**Formel 1:** Am Mexiko-Wochenende ist im Fahrermarkt einiges passiert: Esteban Ocon verliert sein Haas-Cockpit und verlässt die Formel 1, Sergio Pérez hat bei Cadillac verlängert und will danach aufhören. Verstappen und Lawson werden nach einer Kollision im Training in der Startaufstellung zurückversetzt. Bei Audi geht Teammanager Beat Zehnder nach 39 Jahren im Team."
+      ],
+      "sources": [
+        {"label": "dpa via news.de", "url": "https://www.news.de/sport/860145295/medien-nuernbergs-chatzialexiou-vor-wechsel-nach-frankfurt-eintracht-frankfurt-news-der-dpa-aktuell-zu-2-bundesliga-1-fc-nuernberg-und-bundesliga/1/"},
+        {"label": "motorsport-total", "url": "https://www.motorsport-total.com/formel-1/news"}
+      ]
+    },
+    {
+      "title": "Finanzmarkt", "short": "Finanzen",
+      "figures": [
+        {"label": "DAX", "value": "25.818", "change": "−0,85 %"},
+        {"label": "S&P 500", "value": "7.579", "change": "−1,83 %"},
+        {"label": "Nasdaq", "value": "25.442", "change": "−2,84 %"}
+      ],
+      "paragraphs": [
+        "Wall Street hatte den schlechtesten Tag seit Juni: Enttäuschende Ausblicke von Amazon und Intel lösten einen breiten Tech-Ausverkauf aus, dazu treibt die Iran-Sorge den Ölpreis (Brent zeitweise rund 118 Dollar). Der DAX gab nach, schließt die Woche und den Oktober aber jeweils mit rund 2,5 Prozent Plus. Nächste Woche zählen vor allem die Midterms am Dienstag und die Frage, ob es danach zu neuen Angriffen auf Iran kommt.",
+        "**Auffällig:** Intel stürzte um 29 Prozent ab (schwacher Ausblick, PC-Flaute, Fabrikunfall in Israel), der schlechteste Tag seit 1974. Reddit verlor trotz guter Zahlen ebenfalls 29 Prozent. In Frankfurt fielen Siemens Energy (−6,9 %) und Infineon (−6,4 %) mit dem Tech-Sektor, Bayer stieg dagegen um 5,5 Prozent nach einem gewonnenen Glyphosat-Prozess in Missouri."
+      ],
+      "sources": [
+        {"label": "TheStreet", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-30-2026"},
+        {"label": "dpa-AFX via ARIVA", "url": "https://www.ariva.de/news/roundup-aktien-frankfurt-schluss-schwaecheres-ende-einer-12189224"}
+      ]
+    }
+  ]
+}
